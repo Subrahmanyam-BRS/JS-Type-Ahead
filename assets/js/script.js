@@ -1,10 +1,4 @@
-/** 
-Author: Build Rise Shine with Nyros (BRS) 
-Created: 2023 
-Library / Component: Script file
-Description: Type Ahead
-(c) Copyright by BRS with Nyros. 
-**/
+
 
 // Get DOM Elements
 const searchInput = document.querySelector(".search");
