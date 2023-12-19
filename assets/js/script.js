@@ -1,5 +1,3 @@
-
-
 // Get DOM Elements
 const searchInput = document.querySelector(".search");
 const suggestions = document.querySelector(".suggestions");
